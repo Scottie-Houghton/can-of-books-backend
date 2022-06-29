@@ -20,6 +20,8 @@
 ## Change Log
 * 06-27-2022 9:30pm - Created a backend server. Created a Schema and Model for books. Connected our MongoDB to our back end. Planted seeds of 3 books in our database. Got books we created read to send to the front end. Application has a GET route to our server which is pulling data from our database. It renders the data from the database onto our page.
 
+* 06-28-2022 8:55pm - Added routes in the back end server so the front end can post/create new Books in the database and delete Books from the database.
+
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
@@ -38,3 +40,13 @@ Start time: 4:00pm
 Finish time: 9:30pm
 
 Actual time needed to complete: 5.5 hours
+
+## Lab: Class 12 - Building CRUD apps with MongoDB
+
+Estimate of time needed to complete: 5 hours
+
+Start time: 2:00pm
+
+Finish time: 9:00pm
+
+Actual time needed to complete: 7 hours
