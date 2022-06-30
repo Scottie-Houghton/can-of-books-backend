@@ -1,7 +1,7 @@
 # Can of Books
 
 **Authors**: Scottie Houghton & Brentice Loper
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.3 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 * Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
@@ -13,14 +13,16 @@
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 
 ## Architecture
-* A server built using Express JS and installed with Mongoose to retrieve data from our MongoDB.
+* A server built using Express JS and installed with Mongoose to retrieve and edit data in our MongoDB.
 
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
 
 ## Change Log
 * 06-27-2022 9:30pm - Created a backend server. Created a Schema and Model for books. Connected our MongoDB to our back end. Planted seeds of 3 books in our database. Got books we created read to send to the front end. Application has a GET route to our server which is pulling data from our database. It renders the data from the database onto our page.
 
-* 06-28-2022 8:55pm - Added routes in the back end server so the front end can post/create new Books in the database and delete Books from the database.
+* 06-28-2022 8:55pm - Added routes and their corresponding functions to the back end server so the front end can post / create new books in the database and delete books from the database.
+
+* 06-29-2022 5:10pm - Added a route and its corresponding function to the back end server so the front end can put / update books in the database. Fixed a typo from yesterday that was affecting our delete functionality. Added code to our clear.js file, so we can clear the data from our MongoDB if we need to (copied from the in-class demo, per Sheyna).
 
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
@@ -50,3 +52,13 @@ Start time: 2:00pm
 Finish time: 9:00pm
 
 Actual time needed to complete: 7 hours
+
+## Lab: Class 13 - Update a Resource
+
+Estimate of time needed to complete:  hours
+
+Start time: :00pm
+
+Finish time: :00pm
+
+Actual time needed to complete:  hours
