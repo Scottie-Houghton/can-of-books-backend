@@ -55,10 +55,10 @@ Actual time needed to complete: 7 hours
 
 ## Lab: Class 13 - Update a Resource
 
-Estimate of time needed to complete:  hours
+Estimate of time needed to complete: 3 hours
 
-Start time: :00pm
+Start time: 5:00pm
 
-Finish time: :00pm
+Finish time: 9:00pm
 
-Actual time needed to complete:  hours
+Actual time needed to complete: 4 hours
